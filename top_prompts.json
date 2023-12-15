@@ -1,0 +1,16 @@
+{
+  "promts": [
+    {
+      "Contexto": "",
+      "instrucción": "describe brevemente la trama",
+      "input": "El Padrino",
+      "output": ""
+    },
+    {
+      "Contexto": "Llevo estudiando varios meses en la plataforma de educación virtual de Platzi desde el mes de enero del año 2023, pero siento que no avanzo en mi aprendizaje",
+      "instrucción": "¿Quiero saber cuales son los pilares que debo seguir en cuanto a aprendizaje en línea?",
+      "input": "Es decir que tenga las siguientes características: efectivo, eficiente y eficaz",
+      "output": "en este sistema de educación implementado por platzi, ya hace algunos años. Además, quiero que por favor me los enumeres para así obtener el mejor rendimiento en mi proceso educativo"
+    }
+  ]
+}
